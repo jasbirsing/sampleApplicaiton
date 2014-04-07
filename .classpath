@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/bayeux-api-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-java-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-java-client-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-java-common-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-java-oort-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-java-server-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/cometd-websocket-jetty-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/directjngine.2.1.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jargs-1.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-client-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-continuation-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-http-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-io-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-jmx-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-servlets-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-util-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jetty-websocket-7.6.13.v20130916.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/rhino-1.6R7.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/client-hello/WebContent/lib/yuicompressor-2.4.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
